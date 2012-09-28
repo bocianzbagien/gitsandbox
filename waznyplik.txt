@@ -1,3 +1,8 @@
 to jest jakis bardzo wazny plik stworzony w dosie
 
 zawiera bardzo duzo linii
+
+i teraz go troche zmienimy
+
+dodamy nowa linia po dodaniu do repozytorium
+
