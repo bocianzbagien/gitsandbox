@@ -6,3 +6,9 @@ i teraz go troche zmienimy
 
 dodamy nowa linia po dodaniu do repozytorium
 
+
+teraz bedziemy sprawdzac zmiany ostatni commit <-> a zmiany w poczekalni
+
+
+nowe linie
+
